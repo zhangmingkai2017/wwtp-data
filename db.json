@@ -1,20 +1,30 @@
 {
   "wwtps": [
     {
-      "id": 123,
-      "category": "animal welfare",
+      "id": 1,
       "title": "Cat Adoption Day",
+      "text": "规模: 20万吨/天。 工艺: AAO。"
 
     },
     {
-      "id": 456,
-      "category": "food",
+      "id": 2,
       "title": "Community Gardening",
+      "text": "规模: 30万吨/天。 工艺: 多级AO。"
     },
     {
-      "id": 789,
-      "category": "sustainability",
+      "id": 3,
       "title": "Beach Cleanup",
+      "text": "规模: 40万吨/天。 工艺: 氧化沟。"
+    },
+    {
+      "id": 4,
+      "title": "XX污水处理厂",
+      "text": "规模: 20万吨/天。 工艺: SBR。"
+    },
+    {
+      "id": 5,
+      "title": "XX污水处理厂",
+      "text": "规模: 20万吨/天。 工艺: MBR。"
     }
   ]
 }
