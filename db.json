@@ -2,28 +2,28 @@
   "wwtps": [
     {
       "id": 1,
-      "title": "Cat Adoption Day",
+      "title": "淄博一厂",
       "text": "规模: 20万吨/天。 工艺: AAO。"
 
     },
     {
       "id": 2,
-      "title": "Community Gardening",
+      "title": "淄博二厂",
       "text": "规模: 30万吨/天。 工艺: 多级AO。"
     },
     {
       "id": 3,
-      "title": "Beach Cleanup",
+      "title": "济南一厂",
       "text": "规模: 40万吨/天。 工艺: 氧化沟。"
     },
     {
       "id": 4,
-      "title": "XX污水处理厂",
+      "title": "济南二厂",
       "text": "规模: 20万吨/天。 工艺: SBR。"
     },
     {
       "id": 5,
-      "title": "XX污水处理厂",
+      "title": "无锡芦村污水厂",
       "text": "规模: 20万吨/天。 工艺: MBR。"
     }
   ]
